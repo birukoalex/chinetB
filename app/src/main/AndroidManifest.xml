@@ -9,7 +9,7 @@
         android:theme="@style/Theme.ChiNet"
         android:usesCleartextTraffic="false"
         android:icon="@drawable/ic_launcher"
-        android:roundIcon="@drawable/ic_launcher">
+        android:roundIcon="@drawable/chinet_icon">
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
